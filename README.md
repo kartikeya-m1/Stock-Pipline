@@ -388,6 +388,3 @@ Thanks to the open-source community for the libraries used in this project, and 
 - Backtesting framework
 - API deployment for predictions
 
----
-
-**Disclaimer**: This project is for educational and research purposes only. Stock market predictions are inherently uncertain and should not be used as the sole basis for investment decisions. Always consult with financial advisors before making investment choices.
